@@ -18,7 +18,8 @@
   <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🇩🇪 German
   <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🇬🇧 English
   <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🇬🇷 (some) Greek
-
+<p>
+  Shoutout to @kimhepp I love you ❤️
 <!---
 gKits/gKits is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
