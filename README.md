@@ -1,5 +1,5 @@
 <p>
-  Hi 👋, I’m <strong>Georgios</strong> K. (@gKits) from Germany. I am <strong>21</strong> yrs old (in 2022 do the math 🙂)
+  Hi 👋, I’m <strong>Georgios</strong> K. (@gKits) from Germany.
   <br>
   I currently am a trainee to become a software developer.
   I’m interested in Baseball⚾ and obviously programming⌨️
@@ -10,7 +10,7 @@
   <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🥉 Java
 <p>
   I’m currently learning:
-  <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Linux, Kubernetes, Docker
+  <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kubernetes, Docker
   <br><br>I’m planing to learn:
   <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C, Go
 <p>
