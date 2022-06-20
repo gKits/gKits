@@ -1,13 +1,12 @@
 <p>
   Hi 👋, I’m <strong>Georgios</strong> K. (@gKits) from Germany.
   <br>
-  I currently am a trainee to become a software developer.
-  I’m interested in Baseball⚾ and obviously programming⌨️
+  Currently a trainee to become a software developer.
 <p>
   My favourite programming languages are:
   <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🥇 Python
   <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🥈 C++
-  <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🥉 Java
+  <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🥉 C#
 <p>
   I’m currently learning:
   <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kubernetes, Docker
