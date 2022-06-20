@@ -6,7 +6,7 @@
   My favourite programming languages are:
   <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🥇 Python
   <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🥈 C++
-  <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🥉 C#
+  <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🥉 C# & Java
 <p>
   I’m currently learning:
   <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kubernetes, Docker
