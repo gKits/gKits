@@ -3,12 +3,16 @@
   <br>
   Currently a trainee to become a software developer.
 <p>
-  My favourite programming languages are:
+  Favourite programming languages:
   <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🥇 Python
   <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🥈 C++
   <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🥉 C#
 <p>
-  I’m currently learning:
+  Linux Distros I use:
+    <br>&Nbsp;Currently <strong>Solus</strong> on my Notebook
+    <br>6nbsp;and <strong>Arch</strong> on my Desktop
+<p>
+  Currently learning:
   <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Docker
   <br><br>I’m planing to learn:
   <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Go
