@@ -14,10 +14,12 @@
 <p>
   Currently learning:
   <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Docker
-  <br><br>I’m planing to learn:
+  <br>
+<p>
+  Planing to learn:
   <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Go
 <p>
-  I speak:
+  "Real" languages:
   <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🇩🇪 German
   <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🇬🇧 English
   <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🇬🇷 (some) Greek
