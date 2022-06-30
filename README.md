@@ -1,5 +1,5 @@
 <p>
-  Hi 👋, I’m <strong>Georgios</strong> K. (@gKits) from Germany.
+  Hi 👋, I’m <strong>Georgios</strong> K. (<a href=https://github.com/gkits>@gKits</a>) from Germany.
   <br>
   Currently a trainee to become a software developer.
 <p>
