@@ -9,8 +9,8 @@
   <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🥉 C#
 <p>
   Linux Distros I use:
-    <br>&nbsp;Currently <strong>Solus</strong> on my Notebook
-    <br>&nbsp;and <strong>Arch</strong> on my Desktop
+  <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Currently <strong>Solus</strong> on my Notebook
+  <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and <strong>Arch</strong> on my Desktop
 <p>
   Currently learning:
   <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Docker
