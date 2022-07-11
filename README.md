@@ -13,7 +13,7 @@
   <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and <strong>Arch</strong> on my Desktop
 <p>
   Currently learning:
-  <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Docker
+  <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Docker, C++
   <br>
 <p>
   Planing to learn:
