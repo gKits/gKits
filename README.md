@@ -3,9 +3,9 @@
   <br>Currently a trainee to become a software developer.
 <p>
   Favourite programming languages:
-  <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🥇 Python
-  <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🥈 C++
-  <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🥉 C#
+  <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🐍Python
+  <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🐹Go
+  <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🟣C#
 <p>
   "Real" languages:
   <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🇩🇪 German
