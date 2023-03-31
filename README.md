@@ -8,7 +8,7 @@ Currently I am a trainee to become a software developer.
 
 #### Currently learning
 - ⚓ Kubernetes
-- ⚛️ ReactJS
+- 🦀 Rust
 
 #### "Real" languages
 - 🇩🇪 German
