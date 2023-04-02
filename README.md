@@ -20,7 +20,7 @@ Shoutout to [@kimhep](https://github.com/kimhep)❤️
 I use Arch btw
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gKits&langs_count=5&theme=tokyonight)]()
-![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/gKits/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 <!---
 gKits/gKits is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
