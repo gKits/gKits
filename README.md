@@ -19,7 +19,7 @@ Currently I am a trainee to become a software developer.
 Shoutout to [@kimhep](https://github.com/kimhep)❤️  
 I use Arch btw
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gKits&langs_count=5&theme=tokyonight)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gKits&langs_count=5&theme=tokyonight&layout=compact)]()  
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=gKits&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
