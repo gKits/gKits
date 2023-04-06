@@ -19,8 +19,8 @@ Currently I am a trainee to become a software developer.
 Shoutout to [@kimhep](https://github.com/kimhep)❤️  
 I use Arch btw
 
-<img aligb="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gKits&langs_count=5&theme=tokyonight&layout=compact" alt="gKits-language-stats" width="500"/>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=gKits&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats" alt="gKits-stats" width="500"/>
+<img aligb="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gKits&langs_count=5&theme=tokyonight&layout=compact" alt="gKits-language-stats" width="300"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=gKits&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats" alt="gKits-stats" width="300"/>
 <!---
 gKits/gKits is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
